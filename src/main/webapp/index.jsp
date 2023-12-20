@@ -32,7 +32,7 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary">Giang Trong Duong</span>
+      <span class="badge badge-primary"> TEst Giang Trong Duong</span>
       <br>
       <span class="badge badge-secondary">s3926135 (sID)</span>
       <br>
@@ -43,6 +43,7 @@
       <span class="badge badge-warning">Java!</span>
       <!-- You only need to change these information, ends here! -->
       
+
 
     </div>
     <!-- The content of the website ends here! -->
