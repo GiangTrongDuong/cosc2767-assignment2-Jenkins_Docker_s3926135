@@ -32,15 +32,15 @@
 
       <!-- You only need to change these information, starts here! -->
       <p>Here is the information you need to change:</p>
-      <span class="badge badge-primary"> TEst Giang Trong Duong</span>
+      <span class="badge badge-primary"> name</span>
       <br>
-      <span class="badge badge-secondary">s3926135 (sID)</span>
+      <span class="badge badge-secondary">id (sID)</span>
       <br>
-      <span class="badge badge-success">bachelor of IT (general IT)</span>
+      <span class="badge badge-success">degree</span>
       <br>
-      <span class="badge badge-danger">Gym, photography, gaming, badminton, movie making</span>
+      <span class="badge badge-danger">hobby</span>
       <br>
-      <span class="badge badge-warning">Java!</span>
+      <span class="badge badge-warning">coding language</span>
       <!-- You only need to change these information, ends here! -->
       
 
