@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git 'https://github.com/GiangTrongDuong/cosc2767-assignment2-website.git'
+                git 'https://github.com/GiangTrongDuong/cosc2767-assignment2-website.git', git branch: 'main'
             }
         }
         stage('Build') {
