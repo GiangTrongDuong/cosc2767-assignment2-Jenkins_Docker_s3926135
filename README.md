@@ -1,5 +1,4 @@
-# cosc2767-assignment2-website
-<p align="center">
-  <img src="https://i.imgur.com/xt6DYL2.png">
-</p>
+Student name: Giang Trong Duong
+Student ID: s3926135
+
 
