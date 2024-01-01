@@ -1,3 +1,12 @@
+#  RMIT University Vietnam
+#  Course: COSC2767 Systems Deployment and Operations
+#  Semester: 2023C
+#  Assessment: Assignment 2
+#   Author: Giang Trong Duong
+#   ID: s3926135
+#   Created  28/12/2023
+#   Last modified: 29/12/2023
+#   Acknowledgement: 
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
 sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key
 sudo amazon-linux-extras install java-openjdk11 -y
